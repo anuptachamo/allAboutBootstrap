@@ -1,0 +1,14 @@
+.container p{
+    text-align: justify;
+}
+
+.container .btn-success{
+    margin-left: 70%;
+}
+
+/* Alert */
+.btn.btn-primary.position-relative {
+    position: absolute;
+    left: 90%;
+    font-size: 20px;
+}
